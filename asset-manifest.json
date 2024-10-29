@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Soti369/github.com/school/static/css/main.b22152a9.css",
-    "main.js": "/Soti369/github.com/school/static/js/main.8ca54231.js",
-    "static/js/453.0cc0ac16.chunk.js": "/Soti369/github.com/school/static/js/453.0cc0ac16.chunk.js",
-    "static/media/logo1.JPG": "/Soti369/github.com/school/static/media/logo1.6d9b8d32c2d2d245a2dc.JPG",
-    "static/media/logo2.png": "/Soti369/github.com/school/static/media/logo2.7f16d7d8beb25c2d4dfa.png",
-    "static/media/slick.svg": "/Soti369/github.com/school/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/Soti369/github.com/school/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/Soti369/github.com/school/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/Soti369/github.com/school/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/Soti369/github.com/school/index.html",
-    "main.b22152a9.css.map": "/Soti369/github.com/school/static/css/main.b22152a9.css.map",
-    "main.8ca54231.js.map": "/Soti369/github.com/school/static/js/main.8ca54231.js.map",
-    "453.0cc0ac16.chunk.js.map": "/Soti369/github.com/school/static/js/453.0cc0ac16.chunk.js.map"
+    "main.css": "/Soti369.github.io/school/static/css/main.10e421d3.css",
+    "main.js": "/Soti369.github.io/school/static/js/main.92d6fbc4.js",
+    "static/js/453.0cc0ac16.chunk.js": "/Soti369.github.io/school/static/js/453.0cc0ac16.chunk.js",
+    "static/media/logo1.JPG": "/Soti369.github.io/school/static/media/logo1.6d9b8d32c2d2d245a2dc.JPG",
+    "static/media/logo2.png": "/Soti369.github.io/school/static/media/logo2.7f16d7d8beb25c2d4dfa.png",
+    "static/media/slick.svg": "/Soti369.github.io/school/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Soti369.github.io/school/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Soti369.github.io/school/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Soti369.github.io/school/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Soti369.github.io/school/index.html",
+    "main.10e421d3.css.map": "/Soti369.github.io/school/static/css/main.10e421d3.css.map",
+    "main.92d6fbc4.js.map": "/Soti369.github.io/school/static/js/main.92d6fbc4.js.map",
+    "453.0cc0ac16.chunk.js.map": "/Soti369.github.io/school/static/js/453.0cc0ac16.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b22152a9.css",
-    "static/js/main.8ca54231.js"
+    "static/css/main.10e421d3.css",
+    "static/js/main.92d6fbc4.js"
   ]
 }
